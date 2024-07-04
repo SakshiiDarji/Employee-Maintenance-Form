@@ -1,0 +1,29 @@
+C:\Users\14387\source\repos\2023\FALL-23- OBJECT-ORIIENTED-PROGRAMMING\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe.config
+C:\Users\14387\source\repos\2023\FALL-23- OBJECT-ORIIENTED-PROGRAMMING\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe
+C:\Users\14387\source\repos\2023\FALL-23- OBJECT-ORIIENTED-PROGRAMMING\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.pdb
+C:\Users\14387\source\repos\2023\FALL-23- OBJECT-ORIIENTED-PROGRAMMING\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.AssemblyReference.cache
+C:\Users\14387\source\repos\2023\FALL-23- OBJECT-ORIIENTED-PROGRAMMING\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.SuggestedBindingRedirects.cache
+C:\Users\14387\source\repos\2023\FALL-23- OBJECT-ORIIENTED-PROGRAMMING\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.CoreCompileInputs.cache
+C:\Users\14387\source\repos\2023\FALL-23- OBJECT-ORIIENTED-PROGRAMMING\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.exe
+C:\Users\14387\source\repos\2023\FALL-23- OBJECT-ORIIENTED-PROGRAMMING\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.pdb
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe.config
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.pdb
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.AssemblyReference.cache
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.SuggestedBindingRedirects.cache
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.GUI.FormTest.resources
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.GenerateResource.cache
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.CoreCompileInputs.cache
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.exe
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.pdb
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe.config
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.pdb
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.AssemblyReference.cache
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.SuggestedBindingRedirects.cache
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.GUI.FormTest.resources
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.GenerateResource.cache
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.CoreCompileInputs.cache
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.exe
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.pdb
+C:\Users\14387\source\repos\2024\Winter2024\Lab1_ConnectedMode2\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.GUI.FormEmployee.resources
